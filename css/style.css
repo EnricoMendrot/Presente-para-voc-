@@ -20,7 +20,7 @@
 .poema5{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section5.jpg);
+    background-image: url(/image/imagem\ da\ section5.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@
 .poema1{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section1.jpg);
+    background-image: url(/image/imagem\ da\ section1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -81,7 +81,7 @@
 .poema2{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section2.jpg);
+    background-image: url(/image/imagem\ da\ section2.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -112,7 +112,7 @@
 .poema3{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section3.jpg);
+    background-image: url(/image/imagem\ da\ section3.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -143,7 +143,7 @@
 .poema4{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section4.jpg);
+    background-image: url(/image/imagem\ da\ section4.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -176,7 +176,7 @@
 .poema6{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section6.jpg);
+    background-image: url(/image/imagem\ da\ section6.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -208,7 +208,7 @@
 .poema7{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section7.jpeg);
+    background-image: url(/image/imagem\ da\ section7.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -240,7 +240,7 @@
 .poema8{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section8.jpeg);
+    background-image: url(/image/imagem\ da\ section8.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -272,7 +272,7 @@
 .poema9{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section8.jpg);
+    background-image: url(/image/imagem\ da\ section8.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -304,7 +304,7 @@
 .poema10{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section.jpg);
+    background-image: url(/image/imagem\ da\ section.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -337,7 +337,7 @@
 .poema15{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section11.jpg);
+    background-image: url(/image/imagem\ da\ section11.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -369,7 +369,7 @@
 .poema16{
     width: 100%;
     min-height: 100vh;
-    background-image: url(primeiro.jpg);
+    background-image: url(/image/primeiro.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -401,7 +401,7 @@
 .poema17{
     width: 100%;
     min-height: 100vh;
-    background-image: url(imagem\ da\ section17.jpeg);
+    background-image: url(/image/imagem\ da\ section17.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -464,7 +464,7 @@
 }
 
 .video {
-    background-image: url(imagem\ da\ sectionvideo.jpg);
+    background-image: url(/image/imagem\ da\ sectionvideo.jpg);
     text-align: center; /* Centraliza tudo que está dentro da section */
     padding: 40px;
 
