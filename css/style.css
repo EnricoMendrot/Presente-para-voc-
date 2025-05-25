@@ -255,7 +255,7 @@
     max-width: 500px;
     background-color: transparent;
     backdrop-filter: blur(50px);
-    padding: 50px;
+    padding: 10px;
     font-family: "sparta";
     color:white;
     border: 2px solid white;
@@ -264,7 +264,7 @@
 
 .poema8 > .mensagem8 > .titulo {
 
-    color: rgb(208, 255, 0);
+    color: rgb(255, 255, 255);
 }
 
 /* ============= POEMA 9====================*/
@@ -384,7 +384,7 @@
     max-width: 500px;
     background-color: transparent;
     backdrop-filter: blur(5px);
-    padding: 20px;
+    padding: 10px;
     font-family: "sparta";
     color:white;
     border: 2px solid white;
@@ -472,6 +472,7 @@
 
 .video > .mp4{
     width: 500px;
+    height: 700px;
     box-shadow: 
     0 0 7px #fff,
     0 0 10px #fff,
