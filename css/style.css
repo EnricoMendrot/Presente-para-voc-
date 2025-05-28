@@ -464,8 +464,8 @@
 }
 
 .video {
-    background-image: url(/image/imagem\ da\ sectionvideo.jpg);
-    text-align: center; /* Centraliza tudo que está dentro da section */
+    background-image: url(./image/imagem\ da\ sectionvideo.jpg);
+    text-align: center;
     padding: 40px;
 
 }
